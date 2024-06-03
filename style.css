@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background: #8d95dc;
+}
+
+.container {
+  background: #dbc08c;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 10px;
+  padding: 15px 25px;
+  color: #3d405c;
+  font-size: 25px;
+}
+
+.container p {
+  margin: 10px;
+}
+
+.container span {
+  font-weight: bold;
+}
